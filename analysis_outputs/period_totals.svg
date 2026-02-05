@@ -1,0 +1,80 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='900' height='500'>
+<rect width='100%' height='100%' fill='white' />
+<text x='450.0' y='30' font-size='18' text-anchor='middle'>Total Amount by Period</text>
+<text x='450.0' y='490' font-size='12' text-anchor='middle'>Period</text>
+<text transform='translate(15,250.0) rotate(-90)' font-size='12' text-anchor='middle'>Total Amount</text>
+<line x1='60' y1='60' x2='60' y2='440' stroke='black' />
+<line x1='60' y1='440' x2='840' y2='440' stroke='black' />
+<rect x='65.0' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='76.25' y='455' font-size='10' text-anchor='middle' transform='rotate(45 76.25,455)'>2015-01</text>
+<text x='76.25' y='435' font-size='10' text-anchor='middle'>0</text>
+<rect x='97.5' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='108.75' y='455' font-size='10' text-anchor='middle' transform='rotate(45 108.75,455)'>2015-02</text>
+<text x='108.75' y='435' font-size='10' text-anchor='middle'>0</text>
+<rect x='130.0' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='141.25' y='455' font-size='10' text-anchor='middle' transform='rotate(45 141.25,455)'>2015-03</text>
+<text x='141.25' y='435' font-size='10' text-anchor='middle'>0</text>
+<rect x='162.5' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='173.75' y='455' font-size='10' text-anchor='middle' transform='rotate(45 173.75,455)'>2015-04</text>
+<text x='173.75' y='435' font-size='10' text-anchor='middle'>0</text>
+<rect x='195.0' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='206.25' y='455' font-size='10' text-anchor='middle' transform='rotate(45 206.25,455)'>2015-05</text>
+<text x='206.25' y='435' font-size='10' text-anchor='middle'>0</text>
+<rect x='227.5' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='238.75' y='455' font-size='10' text-anchor='middle' transform='rotate(45 238.75,455)'>2015-06</text>
+<text x='238.75' y='435' font-size='10' text-anchor='middle'>0</text>
+<rect x='260.0' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='271.25' y='455' font-size='10' text-anchor='middle' transform='rotate(45 271.25,455)'>2015-07</text>
+<text x='271.25' y='435' font-size='10' text-anchor='middle'>0</text>
+<rect x='292.5' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='303.75' y='455' font-size='10' text-anchor='middle' transform='rotate(45 303.75,455)'>2015-08</text>
+<text x='303.75' y='435' font-size='10' text-anchor='middle'>0</text>
+<rect x='325.0' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='336.25' y='455' font-size='10' text-anchor='middle' transform='rotate(45 336.25,455)'>2015-09</text>
+<text x='336.25' y='435' font-size='10' text-anchor='middle'>0</text>
+<rect x='357.5' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='368.75' y='455' font-size='10' text-anchor='middle' transform='rotate(45 368.75,455)'>2015-10</text>
+<text x='368.75' y='435' font-size='10' text-anchor='middle'>0</text>
+<rect x='390.0' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='401.25' y='455' font-size='10' text-anchor='middle' transform='rotate(45 401.25,455)'>2015-11</text>
+<text x='401.25' y='435' font-size='10' text-anchor='middle'>0</text>
+<rect x='422.5' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='433.75' y='455' font-size='10' text-anchor='middle' transform='rotate(45 433.75,455)'>2015-12</text>
+<text x='433.75' y='435' font-size='10' text-anchor='middle'>0</text>
+<rect x='455.0' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='466.25' y='455' font-size='10' text-anchor='middle' transform='rotate(45 466.25,455)'>2016-01</text>
+<text x='466.25' y='435' font-size='10' text-anchor='middle'>0</text>
+<rect x='487.5' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='498.75' y='455' font-size='10' text-anchor='middle' transform='rotate(45 498.75,455)'>2016-02</text>
+<text x='498.75' y='435' font-size='10' text-anchor='middle'>0</text>
+<rect x='520.0' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='531.25' y='455' font-size='10' text-anchor='middle' transform='rotate(45 531.25,455)'>2016-03</text>
+<text x='531.25' y='435' font-size='10' text-anchor='middle'>0</text>
+<rect x='552.5' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='563.75' y='455' font-size='10' text-anchor='middle' transform='rotate(45 563.75,455)'>2016-04</text>
+<text x='563.75' y='435' font-size='10' text-anchor='middle'>0</text>
+<rect x='585.0' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='596.25' y='455' font-size='10' text-anchor='middle' transform='rotate(45 596.25,455)'>2016-05</text>
+<text x='596.25' y='435' font-size='10' text-anchor='middle'>0</text>
+<rect x='617.5' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='628.75' y='455' font-size='10' text-anchor='middle' transform='rotate(45 628.75,455)'>2016-06</text>
+<text x='628.75' y='435' font-size='10' text-anchor='middle'>0</text>
+<rect x='650.0' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='661.25' y='455' font-size='10' text-anchor='middle' transform='rotate(45 661.25,455)'>2016-07</text>
+<text x='661.25' y='435' font-size='10' text-anchor='middle'>0</text>
+<rect x='682.5' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='693.75' y='455' font-size='10' text-anchor='middle' transform='rotate(45 693.75,455)'>2016-08</text>
+<text x='693.75' y='435' font-size='10' text-anchor='middle'>0</text>
+<rect x='715.0' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='726.25' y='455' font-size='10' text-anchor='middle' transform='rotate(45 726.25,455)'>2016-09</text>
+<text x='726.25' y='435' font-size='10' text-anchor='middle'>0</text>
+<rect x='747.5' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='758.75' y='455' font-size='10' text-anchor='middle' transform='rotate(45 758.75,455)'>2016-10</text>
+<text x='758.75' y='435' font-size='10' text-anchor='middle'>0</text>
+<rect x='780.0' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='791.25' y='455' font-size='10' text-anchor='middle' transform='rotate(45 791.25,455)'>2016-11</text>
+<text x='791.25' y='435' font-size='10' text-anchor='middle'>0</text>
+<rect x='812.5' y='440' width='22.5' height='0' fill='#4C78A8' />
+<text x='823.75' y='455' font-size='10' text-anchor='middle' transform='rotate(45 823.75,455)'>2016-12</text>
+<text x='823.75' y='435' font-size='10' text-anchor='middle'>0</text>
+</svg>
