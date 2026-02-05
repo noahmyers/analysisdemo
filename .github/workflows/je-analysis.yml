@@ -1,0 +1,29 @@
+name: JE analysis workflow
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "analysis_workflow.py"
+      - "je_samples.xlsx"
+      - ".github/workflows/je-analysis.yml"
+  pull_request:
+    paths:
+      - "analysis_workflow.py"
+      - "je_samples.xlsx"
+      - ".github/workflows/je-analysis.yml"
+
+jobs:
+  run-analysis:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run JE analysis workflow
+        run: python analysis_workflow.py

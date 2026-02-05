@@ -1,0 +1,112 @@
+JE Samples Basic Analysis Summary
+====================================
+Total rows (excluding header): 37905
+Total columns: 30
+
+Column overview:
+- JEEntryKey: type=text, missing=0 (0.0%)
+- JENumber: type=text, missing=0 (0.0%)
+- JEIdentifier: type=text, missing=0 (0.0%)
+- GLAccountNumber: type=text, missing=0 (0.0%)
+- BLANK: type=empty, missing=37905 (100.0%)
+- EffectiveDate: type=date, missing=0 (0.0%)
+- Period: type=text, missing=0 (0.0%)
+- EntryDate: type=date, missing=0 (0.0%)
+- PreparerID: type=text, missing=0 (0.0%)
+- Source: type=text, missing=0 (0.0%)
+- BusinessUnit: type=text, missing=0 (0.0%)
+- JEDescription: type=text, missing=0 (0.0%)
+- Debit: type=text, missing=18953 (50.0%)
+- Credit: type=numeric, missing=18951 (50.0%)
+- Amount: type=numeric, missing=0 (0.0%)
+- AbsoluteAmount: type=empty, missing=37905 (100.0%)
+- SysManInd: type=empty, missing=37905 (100.0%)
+- UserDefined1: type=empty, missing=37905 (100.0%)
+- UserDefined2: type=empty, missing=37905 (100.0%)
+- UserDefined3: type=empty, missing=37905 (100.0%)
+- PeriodFlag: type=empty, missing=37905 (100.0%)
+- AccountType: type=text, missing=0 (0.0%)
+- AccountClass: type=text, missing=0 (0.0%)
+- GLAccountStartingBalance: type=text, missing=37902 (100.0%)
+- GLAccountEndingBalance: type=empty, missing=37905 (100.0%)
+- SortOrder: type=empty, missing=37905 (100.0%)
+- GLAccountName: type=text, missing=0 (0.0%)
+- Category: type=empty, missing=37905 (100.0%)
+- Marked: type=empty, missing=37905 (100.0%)
+- MarkedInReport: type=empty, missing=37905 (100.0%)
+
+Date ranges:
+- EffectiveDate: 2014-07-01 to 2016-06-30
+- EntryDate: 2014-06-25 to 2016-06-30
+
+Numeric summaries:
+- Credit: count=18954, min=-318505.80, max=160918.46, mean=-2287.39, sum=-43355165.55
+- Amount: count=37905, min=-318505.80, max=318505.80, mean=0.00, sum=0.00
+
+Top categories (count):
+- JEEntryKey:
+  - 20169413: 4
+  - 20169565: 3
+  - 20151: 2
+  - 20152: 2
+  - 20153: 2
+- JENumber:
+  - 20169413: 4
+  - 20169565: 3
+  - 20151: 2
+  - 20152: 2
+  - 20153: 2
+- JEIdentifier:
+  - 20169413: 4
+  - 20169565: 3
+  - 20151: 2
+  - 20152: 2
+  - 20153: 2
+- GLAccountNumber:
+  - 70300-FS: 29
+  - 70300-HP: 26
+- Period:
+  - 2016-12: 1949
+  - 2016-09: 1928
+  - 2016-11: 1914
+  - 2015-04: 1832
+  - 2015-10: 1764
+- PreparerID:
+  - POS: 7892
+  - GUESTSYS: 6826
+  - Victoria Simpson|Accounting Manager: 6144
+  - Carolyn Slater|Food Operations Manager       : 5658
+  - Elizabeth Rees|Food Operations Manager       : 4444
+- Source:
+  - CREDIT CARD RECEIPT        : 10263
+  - CHECK                      : 8602
+  - PURCHASE CARD              : 5276
+  - PAYROLL S/B JV             : 3936
+  - CASH RECEIPT               : 3370
+- BusinessUnit:
+  - FOOD SERVICE: 18010
+  - HOTEL: 11648
+  - HOTEL PANTRY: 3290
+  - HOUSEKEEPING: 2506
+  - MAINTENANCE: 1961
+- Debit:
+  - .: 1
+- AccountType:
+  - Assets: 20110
+  - Revenue: 8540
+  - Expenses: 7113
+  - Liabilities: 2142
+- AccountClass:
+  - Cash: 16770
+  - SG&A: 4033
+  - Sales-Hotel: 3892
+  - Sales-Dining: 2884
+  - Inventory: 2871
+- GLAccountStartingBalance:
+  - INVENTORY - FOOD SERVICE    : 3
+- GLAccountName:
+  - Operating Bank Account: 16770
+  - Rents - Hotels: 3892
+  - Sales - Dining Halls: 2884
+  - Food Service Inventory: 2685
+  - Supplies and Materials: 2066
